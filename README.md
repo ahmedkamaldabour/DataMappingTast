@@ -1,8 +1,10 @@
 
-## About Task
+# About Task
  
-- This task involves matching data between tables based on keywords  "arabic," "english," or "latin." 
-- Although I approached the task with limited understanding, I've implemented it to the best of my ability.
+### - This task involves matching data between tables based on keywords  "arabic," "english," or "latin." 
+### - Although I approached the task with limited understanding, I've implemented it to the best of my ability.
+
+### To run the project 
 
 - git clone ' link ' 
 - composer update 
